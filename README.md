@@ -5,7 +5,7 @@ Welcome to my personal portfolio repository! This project showcases my skills, e
 
 ## 🌐 Portfolio Website
 
-🔗 **Live Website:** https://praj07022.github.io/portfolio/
+🔗 **Live Website:** [https://praj07022.github.io/portfolio/](https://praj07022.github.io/)
 
 ## 👨‍💻 About Me
 
